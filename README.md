@@ -255,6 +255,28 @@ Minimum required AWS permissions:
 
 ---
 
+
+## 🖼️ Full Screenshot Gallery
+
+<details>
+<summary>Click to view all screenshots</summary>
+
+<br>
+
+<img src="SCREENSHOTS/first.png" width="100%"/><br><br>
+<img src="SCREENSHOTS/second.png" width="100%"/><br><br>
+<img src="SCREENSHOTS/third.png" width="100%"/><br><br>
+<img src="SCREENSHOTS/fourth.png" width="100%"/><br><br>
+<img src="SCREENSHOTS/fifth.png" width="100%"/><br><br>
+<img src="SCREENSHOTS/sixth.png" width="100%"/><br><br>
+<img src="SCREENSHOTS/seventh.png" width="100%"/><br><br>
+<img src="SCREENSHOTS/eigth.png" width="100%"/><br><br>
+<img src="SCREENSHOTS/nineth.png" width="100%"/><br><br>
+
+</details>
+
+---
+
 ## 🤝 Contributing
 
 Contributions are welcome!
