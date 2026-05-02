@@ -3,4 +3,4 @@ uvicorn
 boto3
 python-dotenv
 cachetools
-google-generativeai
+google-genai
